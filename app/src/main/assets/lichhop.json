@@ -1,0 +1,52 @@
+{
+  "room": "phòng họp tầng 8",
+  "timeRange": "01/08/2023",
+  "data": [
+    {
+      "dayName": "Thứ 2",
+      "event": [
+        {
+          "user": "Namnv",
+          "startTime": "08:00:00",
+          "endTime": "10:00:00",
+          "content": "Test lịch họp"
+        },
+        {
+          "user": "Namnv",
+          "startTime": "11:00:00",
+          "endTime": "12:00:00",
+          "content": "Test lịch họp"
+        },
+        {
+          "user": "HiepUH",
+          "startTime": "13:30:00",
+          "endTime": "14:30:00",
+          "content": "Test lịch họp"
+        },
+        {
+          "user": "HiepUH",
+          "startTime": "15:00:00",
+          "endTime": "16:00:00",
+          "content": "Test lịch họp"
+        }
+      ]
+    },
+    {
+      "dayName": "Thứ 3",
+      "event": [
+        {
+          "user": "Namnv",
+          "startTime": "09:30:00",
+          "endTime": "10:30:00",
+          "content": "Test lịch họp"
+        },
+        {
+          "user": "HiepUH",
+          "startTime": "16:00:00",
+          "endTime": "17:30:00",
+          "content": "Test lịch họp"
+        }
+      ]
+    }
+  ]
+}
