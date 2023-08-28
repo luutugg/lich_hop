@@ -36,8 +36,60 @@
       "event": [
         {
           "user": "Namnv",
-          "startTime": "09:30:00",
-          "endTime": "10:30:00",
+          "startTime": "09:00:00",
+          "endTime": "10:00:00",
+          "content": "Test lịch họp"
+        },
+        {
+          "user": "HiepUH",
+          "startTime": "16:00:00",
+          "endTime": "17:30:00",
+          "content": "Test lịch họp"
+        }
+      ]
+    },
+    {
+      "dayName": "Thứ 4",
+      "event": [
+        {
+          "user": "Namnv",
+          "startTime": "10:00:00",
+          "endTime": "12:00:00",
+          "content": "Test lịch họp"
+        },
+        {
+          "user": "HiepUH",
+          "startTime": "16:00:00",
+          "endTime": "17:30:00",
+          "content": "Test lịch họp"
+        }
+      ]
+    }
+    ,
+    {
+      "dayName": "Thứ 5",
+      "event": [
+        {
+          "user": "Namnv",
+          "startTime": "13:00:00",
+          "endTime": "15:00:00",
+          "content": "Test lịch họp"
+        },
+        {
+          "user": "HiepUH",
+          "startTime": "16:00:00",
+          "endTime": "17:30:00",
+          "content": "Test lịch họp"
+        }
+      ]
+    },
+    {
+      "dayName": "Thứ 6",
+      "event": [
+        {
+          "user": "Namnv",
+          "startTime": "09:00:00",
+          "endTime": "10:00:00",
           "content": "Test lịch họp"
         },
         {
